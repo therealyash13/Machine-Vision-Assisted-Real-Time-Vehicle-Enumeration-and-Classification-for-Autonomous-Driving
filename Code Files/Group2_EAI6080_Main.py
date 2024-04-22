@@ -38,6 +38,7 @@ print(len(classNames))
 # class index for our required detection classes
 required_class_index = [2, 3, 5, 7]
 
+
 detected_classNames = []
 
 ## Model Files
